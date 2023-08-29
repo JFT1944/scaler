@@ -1,381 +1,96 @@
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-:<br />Fiscal: 336-570-6538 (fax)<br />Economic Services: 336-290-8651 (fax)<br />APS/CPS Intake:  336-228-2035 (fax)<br />All other Child Welfare Requests/Inquiries:  please email: <a href="mailto:DSSRecordsRequest@alamance-nc.com"
-: <a href="mailto:carmen.morrow@alamance-nc.com"
-: – <a href="mailto:Lynette.Wellons@alamance-nc.com"
-: <a href="mailto:Danae.Pickard@alamance-nc.com"
-: <a href="mailto:jason.cole@alamance-nc.com"
-: <br /><a href="mailto:Angela.Cole@alamance-nc.com"
-: <a href="mailto:robert.ring@alamance-nc.com"
-: <a href="mailto:virginia.hunker@alamance-nc.com"
-: <br /><a href="mailto:jamie.hatfield@alamance-nc.com"
-:  <a href="mailto:laporscha.mccullough@alamance-nc.com"
-:<br />Adult Care: <a href="mailto:kailee.morrow@alamance-nc.com"
-: <br /><a href="mailto:ashley.bryson@alamance-nc.com"
-: <br /><a href="mailto:Angela.Kobani@alamance-nc.com"
-:<br />Adult Medicaid Supervisors:<br /><a href="mailto:Paula.Noice@alamance-nc.com"
-:<br />Intake:<br /><a href="mailto:angelica.wiley@alamance-nc.com"
-: <br /><a href="mailto:kimberly.Price@alamance-nc.com"
-:<br />Intake:<br /><a href="mailto:Melissa.Beal@alamance-nc.com"
-:<br /><a href="mailto:christianna.taylor@alamance-nc.com"
-:<strong> </strong><a href="mailto:shea.malpass@alamance-nc.com"
-: <a href="mailto:Michelle.Mendez@alamance-nc.com"
-: <a href="mailto:Jamie.Hatfield@alamance-nc.com"
-:<br />Establishment: <a href="mailto:Rebecca.Hendry@alamance-nc.com"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:tmitchell@alexandercountync.gov"
-: <a href="mailto:mdodson@alexandercountync.gov"
-: <a href="mailto:ekelly@alexandercountync.gov"
-: <a href="mailto:lacook@alexandercountync.gov"
-: <a href="mailto:jdeal@alexandercountync.gov"
-: <a href="mailto:triddle@alexandercountync.gov"
-: <a href="mailto:kjerrell@alexandercountync.gov"
-: <a href="mailto:cward@alexandercountync.gov"
-: <a href="mailto:mmontagnino@alexandercountync.gov"
-: <a href="mailto:agilbert@alexandercountync.gov"
-: <a href="mailto:lmilstead@alexandercountync.gov"
-: <a href="mailto:jsebastian@alexandercountync.gov"
-: <a href="mailto:khaas@alexandercountync.gov"
-: <a href="mailto:cdemko@alexandercountync.gov"
-: <a href="mailto:mmclain@alexandercountync.gov"
-: <br /><a href="mailto:jbarriger@alexandercountync.gov"
-: <a href="mailto:rmoore@alexandercountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:kdunlap@ansoncountync.gov"
-: <a href="mailto:mkendall@co.anson.nc.us"
-: <a href="mailto:mfreeney@co.anson.nc.us"
-: <a href="mailto:nbroadway@co.anson.nc.us"
-: <a href="mailto:rbowers@co.anson.nc.us"
-: <a href="mailto:ehamilton@ansoncountync.gov"
-: <a href="mailto:cmartin@co.anson.nc.us"
-: <a href="mailto:mfreeney@co.anson.nc.us"
-: <a href="mailto:jtarlton@ansoncountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:traciemcmillan@ashecountygov.com"
-: <a href="mailto:jenniferparsons@ashecountygov.com"
-: <a href="mailto:kellysurber@ashecountygov.com"
-: <a href="mailto:paulfreeman@ashecountygov.com"
-:  <a href="mailto:ashleysheets@ashecountygov.com"
-:  <a href="mailto: edhurst@ashecountygov.com"
-: <a href="mailto:jeanaarroyo@ashecountygov.com"
-: <a href="mailto:nancyjones@ashecountygov.com "
-: <a href="mailto:saundraday@ashecountygov.com "
-: <a href="mailto:amandacox@ashecountygov.com"
-: <a href="mailto:kathyturner@ashecountygov.com"
-: <a href="mailto:angieallen@ashecountygov.com"
-: <a href="mailto:belinda.gilley@ashecountygov.com"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:shannon.singleton@averycountync.gov"
-: <a href="mailto:truman.robbins@averycountync.gov"
-: <a href="mailto:ashley.crenshaw@averycountync.gov"
-: <a href="mailto:kelly.icenhour@averycountync.gov"
-: <a href="mailto:raquel.jennings@averycountync.gov"
-: <a href="mailto:tammy.johnson@averycountync.gov"
-: <a href="mailto:heather.daniels@averycountync.gov"
-: <a href="mailto:jennifer.jennings@averycountync.gov"
-: <a href="mailto:tasha.smith@averycountync.gov"
-: <a href="mailto:nicole.witz@averycountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:daphine.little@bertie.nc.gov"
-: <a href="mailto:melissa.surgeon@bertie.nc.gov"
-: <a href="mailto:Teresa.Gilliam@bertie.nc.gov"
-: <a href="mailto:Rebecca.Neil@bertie.nc.gov"
-: <a href="mailto:Donna.Gillyard@bertie.nc.gov"
-: <a href="mailto:rose.brinkley@bertie.nc.gov"
-: <a href="mailto:susan.hoggard@bertie.nc.gov"
-: <a href="mailto:eleanor.bond@bertie.nc.gov"
-: <a href="mailto:alycia.perry@bertie.nc.gov"
-: <a href="mailto:hope.outlaw@bertie.nc.gov"
-: <a href="mailto:lucille.dunlow@bertie.nc.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:stoney.blevins@buncombecounty.org"
-: <a href="mailto:Christa.Lance@buncombecounty.org"
-: <a href="mailto:lisa.white@buncombecounty.org"
-: <a href="mailto:Leigh.Anderson@buncombecounty.org"
-: <a href="mailto:Phillip.Hardin@buncombecounty.org"
-: <a href="mailto:Rebecca.Smith@buncombecounty.org"
-: <a href="mailto:amber.cook@buncombecounty.org"
-: <a href="mailto:sherri.thomas@buncombecounty.org"
-: <a href="mailto:lizzi.shimer@buncombecounty.org"
-: <a href="mailto:Jennifer.Teague@buncombecounty.org"
-: <a href="mailto:Kelli.Buckner@buncombecounty.org"
-: <a href="mailto:Alison.Mann@buncombecounty.org"
-: <a href="mailto:Ian.Allen@buncombecounty.org"
-: <a href="mailto:Patricia.Wallin@buncombecounty.org"
-: <a href="mailto:Denise.Lancaster@buncombecounty.org"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:KFWELLMAN@BURKENC.ORG"
-: <a href="mailto:sharon.honeycutt@burkenc.org"
-: <a href="mailto:elise.putnam@burkenc.org"
-: <a href="mailto:julia.terrell@burkenc.org"
-: <a href="mailto:chazlyn.thomas@burkenc.org"
-: <a href="mailto:brett.porter@burkenc.org"
-: <a href="mailto:misti.roland@burkenc.org"
-:<br /><a href="mailto:will.winters@burkenc.org"
-: <a href="mailto:cynthia.potter@burkenc.org"
-: <a href="mailto:amanda.grady@burkenc.org"
-: <a href="mailto:kaye.conley@burkenc.org"
-: <a href="mailto:Meredith.white@burkenc.org"
-: <a href="mailto:Elizabeth.childres@burkenc.org"
-: <a href="mailto:tina.mosley@burkenc.org"
-: <a href="mailto:johnny.hicks@burkenc.org"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:drpastores@cabarruscounty.us"
- Welfare Services Program Administrator: <a href="mailto: slschuneman@cabarruscounty.us"
-: <a href="mailto:knlyons@cabarruscounty.us"
-: <a href="mailto:LLipe@cabarruscounty.us"
-: <a href="mailto:dmmartin@cabarruscounty.us"
-: <a href="mailto:nzweaver@cabarruscounty.us"
-: <a href="mailto:anance@cabarruscounty.us"
-: <a href="mailto:mdsturgill@cabarruscounty.us"
-: <a href="mailto:anance@cabarruscounty.us"
-: <a href="mailto:sydillon@cabarruscounty.us"
-: <a href="mailto:rwbushey@cabarruscounty.us"
-: <a href="mailto:clgoodman@cabarruscounty.us"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:cconley@caldwellcountync.org"
-: <a href="mailto:lhollar@caldwellcountync.org"
-: <a href="mailto:jcole@caldwellcountync.org"
-: <a href="mailto:fwood@caldwellcountync.org"
-: <a href="mailto:ktufts@caldwellcountync.org"
-: <a href="mailto:jskipworth@caldwellcountync.org"
-: <a href="mailto:karnett@caldwellcountync.org"
-: <a href="mailto:mhedrick@caldwellcountync.org"
-: <a href="mailto:bhood@caldwellcountync.org"
-: <a href="mailto:cwyke@caldwellcountync.org
-: <a href="mailto:thall@caldwellcountync.org"
-: <a href="mailto:efranklin@caldwellcountync.org"
-:<br /><a href="mailto:kray@caldwellcountync.org"
-:<br /><a href="mailto:mdunlap@caldwellcountync.org"
-: <a href="mailto:mlaws@caldwellcountync.org"
-: <a href="mailto:mprice@caldwellcountync.org"
-:<br /><a href="mailto:bcoley@caldwellcountync.org"
-: <a href="mailto:bruppard@caldwellcountync.org"
-:<br /><a href="mailto:hhennessee@caldwellcountync.org  "
-: 828-426-8297 <br /><a href="mailto:ajud@caldwellcountync.org"
-:<br /><a href="mailto:lmccarl@caldwellcountync.org "
-: <a href="mailto:clwalker@caldwellcountync.org"
-: <a href="mailto:crystalp@caldwellcountync.org "
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:randall.williams@carteretcountync.gov"
-: <a href="mailto:jessica.adams@carteretcountync.gov"
-: <a href="mailto:stephanie.sonzogni@carteretcountync.gov"
-: <a href="mailto:alex.showalter@carteretcountync.gov"
-: <a href="mailto:kay.huffman@carteretcountync.gov"
-: <a href="mailto:kody.krebs@carteretcountync.gov"
-: <a href="mailto:clint.lewis@carteretcountync.gov"
-: <a href="mailto:Sharon.lowery@carteretcountync.gov"
-: <a href="mailto:john.oconnor@carteretcountync.gov"
-: <a href="mailto:barbara.hill@carteretcountync.gov"
-: <a href="mailto:lutonia.hill@carteretcountync.gov"
-: <a href="mailto:kelly.dorman@carteretcountync.gov"
-: <a href="mailto:Alicia.taylor@carteretcountync.gov"
-: <a href="mailto:chuck.bryant@carteretcountync.gov"
-: <a href="mailto:nick.theuner@carteretcountync.gov"
-: <a href="mailto:james.chiavola@carteretcountync.gov"
-: <a href="mailto:gina.harris@carteretcountync.gov"
-: <a href="mailto:karen.hobson-britt@carteretcountync.gov"
-: <a href="mailto:jessica.avery@carteretcountync.gov"
-: <a href="mailto:melodie.jones@carteretcountync.gov"
-: <a href="mailto:tammy.mason@carteretcountync.gov"
-: <a href="mailto:carollynn.bullock@carteretcountync.gov"
-: <a href="mailto:kelly.styron@carteretcountync.gov"
-: <a href="mailto:gay.lewis@carteretcountync.gov"
-: <a href="mailto:monique.foye@carteretcountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:kharrington@catawbacountync.gov"
-: <a href="mailto:lvaughan@catawbacountync.gov"
-: <a href="mailto:kwhisnant@catawbacountync.gov"
-: <a href="mailto:spropst@catawbacountync.gov"
-: <a href="mailto:cjones@CatawbaCountyNC.gov"
-: <a href="mailto:rodney@catawbacountync.gov"
-: <a href="mailto:karenm@catawbacountync.gov"
-: <a href="mailto:jessicaford@catawbacountync.gov"
-: <a href="mailto:ddunn@catawbacountync.gov"
-: <a href="mailto:bsuter@catawbacountync.gov"
-: <a href="mailto:ctriplett@catawbacountync.gov "
-: <a href="mailto:jszymanski@catawbacountync.gov "
-: <a href="mailto:aopdyke@catawbacountync.gov"
-: <a href="mailto:karenm@catawbacountync.gov "
-: <a href="mailto:jahuffman@catawbacountync.gov"
-: <a href="mailto:bethjones@catawbacountync.gov "
-://www.catawbacountync.gov/county-government/boards-committees/"><strong>County Social Services Board:</strong></a><br /><a href="mailto:rcabernethy@catawbacountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:mary.white@chowan.nc.gov"
-: <a href="mailto:Deanna.cherry@chowan.nc.gov"
-: <a href="mailto:Deanna.cherry@chowan.nc.gov"
-: <a href="mailto:Deanna.cherry@chowan.nc.gov"
-: <a href="mailto:Deanna.cherry@chowan.nc.gov"
-: <a href="mailto:lashauna.mcneil@chowan.nc.gov"
-: <a href="mailto:lashauna.mcneil@chowan.nc.gov"
-: <a href="mailto:lashauna.mcneil@chowan.nc.gov"
-: <a href="mailto:cheri.blount@chowan.nc.gov"
-: <a href="mailto:cheri.blount@chowan.nc.gov"
-: <a href="mailto:cheri.blount@chowan.nc.gov"
-: <a href="mailto:cheri.blount@chowan.nc.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:Todd.Goins@claydss.us"
-: <a href="mailto:revonda.moss@claydss.us"
-: <a href="mailto:Haven.Phillips@claydss.us"
-: <a href="mailto:Courtney.Robertson@claydss.us"
-: <a href="mailto:Kayla.Nelson@claydss.us"
-: <a href="mailto:Maryann.Stilwell@claydss.us"
-: <a href="mailto:Story.Robin@swcdcinc.org"
-: <a href="mailto:Helen.Stanley@claydss.us"
-: <a href="mailto:Sara.Barnett@claydss.us"
-: <a href="mailto:helen.stanley@claydss.us"
-: <a href="mailto:Maryann.Stilwell@claydss.us"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-:  <a href="mailto:sherry.daniels@cravencountync.gov"
-:  <a href="mailto:kimberly.morton@cravencountync.gov"
-:  <a href="mailto:Kennedy.Phillips@cravencountync.gov"
-:  <a href="mailto:John.Wetherington@cravencountync.gov"
-:   <a href="mailto:deborah.walker@cravencountync.gov"
-:  <a href="mailto:cassie.bisbee@cravencountync.gov"
-:  <a href="mailto:robyn.scott@cravencountync.gov"
-:  <a href="mailto:Tonja.Davis@cravencountync.gov"
-:  <a href="mailto:Doris.Andrews@cravencountync.gov"
-:  <a href="mailto:minkeo.holloway@cravencountync.gov"
-:  <a href="mailto:lisa.earp@cravencountync.gov"
-:  <a href="mailto:april.rollins@cravencountync.gov"
-:  <a href="mailto:alissa.andrewsbrown@cravencountync.gov"
-:<br /><a href="mailto:rebecca.mallard@cravencountync.gov"
-:  <a href="mailto:terri.Pennington@cravencountync.gov "
-:  <a href="mailto:dana.coward@cravencountync.gov"
-:<br /><a href="mailto:josietta.dillahunt@cravencountync.gov"
-:  <a href="mailto:hollyanne.trombley@cravencountync.gov"
-:  <a href="mailto:Bernard.bush@cravencountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:lycettc@darenc.gov"
-: <a href="mailto:sheila.davies@darenc.com"
-: <a href="mailto:rebert@dcdss.org"
-: <a href="mailto:cameron.thompson@darenc.com"
-: <a href="mailto:helmss@dcdss.org"
-: <a href="mailto:bradleyb@darenc.gov"
-: Food Stamps: <a href="mailto:normanf@dcdss.org"
-: <a href="mailto:leighbrinkley@darenc.com"
-: <a href="mailto:leighbrinkley@darenc.com"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:khefner@daviecountync.gov"
-: <a href="mailto:kgbrewer@daviecountync.gov"
-: <a href="mailto:cramroop@daviecountync.gov"
-%20fmcswain@daviecountync.gov"
-: Morgan Privette <a href="mailto:mprivette@daviecountync.gov"
-: Jaclyn Barringer <a href="mailto:jbarringer@daviecountync.gov"
-: Kristen Valles: <a href="mailto:kvalles@daviecountync.gov"
-: Jaclyn Barringer <a href="mailto:jbarringer@daviecountync.gov"
-: <a href="mailto:cramroop@daviecountync.gov
-: <a href="mailto:cramroop@daviecountync.gov
-: Heather Krause <a href="mailto:hkrause@daviecountync.gov"
-: Chris Clark: <a href="mailto:cclark@daviecountync.gov"
-: Heather Krause <a href="mailto:hkrause@daviecountync.gov"
-: <strong>Recertification</strong>: Chris Clark: <a href="mailto:cclark@daviecountync.gov"
-:  Chris Clark: <a href="mailto:cclark@daviecountync.gov"
-: <a href="mailto:cramroop@daviecountync.gov"
-: Heather Krause <a href="mailto:hkrause@daviecountync.gov"
-:  Chris Clark: <a href="mailto:cclark@daviecountync.gov"
-: <a href="mailto:jrivers@daviecountync.gov"
-: <a href="mailto:cramroop@daviecountync.gov"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-: <a href="mailto:annie.murrell@duplincountync.com"
-: <a href="mailto:wendy.henderson@duplincountync.com"
-: <a href="mailto:wendy.henderson@duplincountync.com"
-: <a href="mailto:dana.bonneville@duplincountync.com"
-:  <a href="mailto:angie.miller@duplincounty.com"
-: <a href="mailto:serita.southerland@duplincountync.com"
-: <a href="mailto:sekema.chasten@duplincountync.com"
-: <a href="mailto:sekema.chasten@duplincountync.com"
-: <a href="mailto:serita.southerland@duplincountync.com"
-:  <a href="mailto:stacy.jones@duplincountync.com"
-:  <a href="mailto:stacy.jones@duplincountync.com"
-:  <a href="mailto:katina.coston@duplincountync.com
-:  <a href="mailto:katina.coston@duplincountync.com
-: Patricia Miller 910-296-2268<br />Phone: 910-296-2200<br />Fax: 910-296-2323<br />PO Box 969<br />423 N. Main Street<br />Kenansville, NC 28349<br />Email: <a href="mailto:patricia.h.miller@dhhs.nc.gov"
-:<br /><a href="mailto:kalvin.pender@duplincountync.com"
-:  <br />SSA -  <a href="mailto:angela.sholar@duplincountync.com"
-: FAX#: 910-296-2361<br /><a href="mailto:kalvin.pender@duplincountync.com"
-: FAX#:910-296-2361<br /><a href="mailto:kalvin.pender@duplincountync.com"
-: <a href="mailto:kristy.wagner@duplincountync.com"
-: <a href="mailto:sonia.guardado@duplincountync.com"
-: <a href="mailto:kristy.wagner@duplincountync.com"
-:kristy.wagner@duplincountync.com"
-: <a href="mailto:kishshanna.inmanendy.henderson@duplincountync.com"
-:  <a href="mailto:elena.salinas@duplincountync.com"
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
-//cdn.jsdelivr.net/npm/jquery-validation@1.17.0
-//cdn.jsdelivr.net/npm/bootstrap@5.1.3
+:Lisa.Vickery@dss.sc.gov"
+ 366-5481  Main<br />(864) 366-0045  Fax<br />(888) 828-3555  Heartfelt Calling Foster Home Licensing<br />(864) 282-4730  Upstate Region Adoptions <br />(888) 839-0155  Upstate Region Kinship Care<br /><br /><br />Submit SNAP/TANF verification information by fax or email: Abbeville.FA@dss.sc.gov
+:AbbevilleWebsite@dss.sc.gov
+ 260-4100 Main<br />(864) 965-9310 Fax<br />(888) 828-3555 Heartfelt Calling Foster Home Licensing<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Anderson.FA@dss.sc.gov
+:AndersonWebsite@dss.sc.gov"
+ 487-2704 Main<br />(864) 487-2512 Fax<br />(888) 828-3555 Heartfelt Calling Foster Home Licensing<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Cherokee.FA@dss.sc.gov
+:CherokeeWebsite@dss.sc.gov"
+ 467-7797 Director <br />(864) 467-7700 Staff <br />(864) 467-7933 Fax  <br />(864) 848-5380 Greer Office <br />(888) 828-3555 Heartfelt Calling Foster Home Licensing<br />(864) 282-4730 Upstate Region Adoptions  <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Greenville.FA@dss.sc.gov
+:GreenvilleWebsite@dss.sc.gov"
+ 229-5258 Main  <br />(864) 229-4613 Main Fax<br />(864) 229-5258 Director<br />(803) 202-3535 Foster Home Licensing (main)<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Greenwood.FA@dss.sc.gov
+:GreenwoodWebsite@dss.sc.gov"
+ 833-0100 Main<br />(864) 833-1681 Fax<br />(864) 200-5736 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Laurens.FA@dss.sc.gov
+:LaurensWebsite@dss.sc.gov"
+ 321-2155 Main<br />(803) 321-2168 Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Newberry.FA@dss.sc.gov
+:NewberryWebsite@dss.sc.gov"
+ 638-4400 Main <br />(864) 638-4444 Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Oconee.FA@dss.sc.gov
+:OconeeWebsite@dss.sc.gov"
+ 898-5810 Main<br />(864) 898-5819 Fax<br />(864) 898-5599 SNAP/TANF (Fax)<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839-0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Pickens.FA@dss.sc.gov
+:PickensWebsite@dss.sc.gov"
+ 596-3001 Main<br />(864) 596-3141 Fax<br />(864) 562-4261 SNAP/TANF (Fax)<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)<br />(864) 282-4730 Upstate Region Adoptions <br />(888) 839- 0155 Upstate Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Spartanburg.FA@dss.sc.gov
+:SpartanburgWebsite@dss.sc.gov"
+ 429-1660 Main<br />(864) 429-1664 Fax<br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free<br />(843) 661-4750 Child Support Services - Main <br />(800) 768-5858 Child Support Services - Toll-Free<br />(843) 661-6623 Child Care Services - Main <br />(800) 556-7445 Child Care Services - Toll-Free<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1537 Midlands Region Adoptions <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Union.FA@dss.sc.gov
+:Jesse.C.Kaylor@dss.sc.gov"
+:Wiley.B.Turner@dss.sc.gov"
+ 649-1111  Main<br />(888) 866-8852  Toll Free<br />(803) 643- 1910 County Attorney<br />(803) 643-1904  Fax<br />(803) 202-3500  North Augusta Office<br />(803) 522-6580  Foster Home Licensing <br />(888) 828-3555  Foster Home Licensing (Heartfelt Calling) <br />(888) 839-0159  Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Aiken.FA@dss.sc.gov
+:AikenWebsite@dss.sc.gov"
+ 245-4363  Main<br />(855) 245-4361  Toll Free<br />(803) 245-3935  Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Bamberg.FA@dss.sc.gov
+:BambergWebsite@dss.sc.gov"
+ 541-1200 Main<br />(803) 541-1209 Fax<br />(803) 541-1219 Director<br />(803) 622-0631 Foster Family and Licensing Support(<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Barnwell.FA@dss.sc.gov
+:BarnwellWebsite@dss.sc.gov
+ 377-8131 Main<br />(803) 385-3361 Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1537 Midlands Region Adoptions <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Chester.FA@dss.sc.gov
+:ChesterWebsite@dss.sc.gov"
+ 637-4040 Main <br />(803) 637-5230 Fax <br />(803) 384-4073 Director <br />(803) 785-2960 County Attorney, Lil Ann Gray, Esq., lillia.gray@dss.sc.gov
+:EdgefieldWebsite@dss.sc.gov"
+ 635-5502           Main<br />(803) 635-2322           Fax<br />(888) 828-3555           Foster Home Licensing (Heartfelt Calling)<br />(888) 771-7095           Midlands Region Adoptions<br />(888) 839-0159           Midlands Region Kinship Care<br />(800) 768-5858           Child Support Services (Statewide Call Center)<br /><br />Submit SNAP/TANF verification information by fax or email: Fairfield.FA@dss.sc.gov
+:Jeffery.P.Sanders@dss.sc.gov
+ 432-7676 Main<br />(803) 425-7195 Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)  <br />(888) 711-7095 Midlands Region Adoptions<br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Kershaw.FA@dss.sc.gov
+:KershawWebsite@dss.sc.gov"
+ 286-6914 Main<br />(803) 285-4480 Main Fax<br />(803) 289-1535 Director<br />(803) 286-1116 Director/Human Resource Fax<br />(800) 556-7445 Child Care Licensing - Toll-Free<br />(888) 202-1469 Child Care Licensing Region II<br />(800) 768-5858 Child Support Services - Toll-Free<br />(803) 898-7279 Foster Family &amp; Licensing Support Unit<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1537 Midlands Region Adoptions <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Lancaster.FA@dss.sc.gov
+:LancasterWebsite@dss.sc.gov"
+ 785-7333  Main<br />(803) 520-1185  Administrative Fax<br />(803) 520-1183  Human Services Fax <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)  <br />(888) 711-7095 Midlands Region Adoptions<br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Lexington.FA@dss.sc.gov
+:LexingtonWebsite@dss.sc.gov"
+ 465-2140 Main<br />(864) 465-2125 Fax <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)  <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: McCormick.FA@dss.sc.gov
+:McCormickWebsite@dss.sc.gov"
+ 714-7300  Main<br />(803) 714-7301  General Information Fax<br />(803) 714-7616  SNAP/TANF Fax<br />(803) 353-3295  Eastover Office<br />(803) 714-7435  Foster Home Licensing<br />(888) 828-3555  Foster Home Licensing (Heartfelt Calling)  <br />(888) 711-7095  Midlands Region Adoptions<br />(888) 839-0159  Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Richland.FA@dss.sc.gov
+:RichlandWebsite@dss.sc.gov"
+ 445-2139 Main<br />(864) 445-7088 Fax<br />(803) 898-8157 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling)  <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Saluda.FA@dss.sc.gov
+:SaludaWebsite@dss.sc.gov
+ 909-7446 or (803) 684-2315 Main<br />(803) 684-8103 Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1537 Midlands Region Adoptions <br />(888) 839-0159 Midlands Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: York.FA@dss.sc.gov
+:YorkWebsite@dss.sc.gov"
+: 400;"><a href="mailto:Enid.B.Jenkins@dss.sc.gov"
+ 584-7048 Main<br />(803) 584-7049 Fax<br />(843) 953-9586 Foster Family &amp; Licensing Support<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Allendale.FA@dss.sc.gov
+:AllendaleWebsite@dss.sc.gov
+ 255-6081 Main<br />(843) 255-6199 Director<br />(843) 525-0415 Director and Human Services Fax<br />(843) 525-0414 SNAP/TANF Fax<br />(800) 768-5858 Child Support Call Center<br />(843) 584-4034 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Beaufort.FA@dss.sc.gov
+:BeaufortWebsite@dss.sc.gov"
+ 761-8044 Main<br />(843) 761-2779 Fax<br />(843) 953-9700 Child Support Enforcement<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Berkeley.FA@dss.sc.gov
+:BerkeleyWebsite@dss.sc.gov
+ 874-3384 Main Number<br />(803) 874-2786 Human Services &amp; Administration Fax<br />(803) 874-1123 SNAP/TANF Fax<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Calhoun.FA@dss.sc.gov
+:CalhounWebsite@dss.sc.gov"
+ 953-9400 Main<br />(855) 953-9400 Main Toll Free<br />(843) 953-9543 Director<br />(843) 953-9620 Fax<br />(843) 953-9700 Child Support Services<br />(800) 588-1543 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Charleston.FA@dss.sc.gov
+:CharlestonWebsite@dss.sc.gov"
+ 549-1012 Director<br />(843) 549-1894 Staff<br />(843) 549-2942 Fax <br />(843) 584-4030 SNAP/TANF<br />(843) 584-4010 County Attorney<br />(843) 953-9586 Foster Home Licensing <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Colleton.FA@dss.sc.gov
+:ColletonWebsite@dss.sc.gov"
+ 821-0444 Main<br />(843) 563-9524 St. George Branch Office <br />(843) 875-2380 Fax <br />(843) 953-9586  Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Dorchester.FA@dss.sc.gov
+:DorchesterWebsite@dss.sc.gov"
+ 943-3641 Main <br />(855) 943-3663 Toll Free<br />(803) 943-4879 Fax <br />(800) 768-5858 Child Support Toll Free <br />(864) 943-3641 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Hampton.FA@dss.sc.gov
+:HamptonWebsite@dss.sc.gov"
+ 726-7753 Director<br />(843) 726-7747 Staff<br />(843) 726-7752 Fax<br />(843) 584-4034 ext. 230 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 922-1518 Lowcountry Region Adoptions<br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Jasper.FA@dss.sc.gov
+:JasperWebsite@dss.sc.gov"
+ 531-3101 Main<br />(803) 531-2045 Fax<br />(803) 515-1829 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(803) 515-1852 Adoptions <br />(888) 854-4277 Lowcountry Region Kinship Care Coordinator<br /><br />Submit SNAP/TANF verification information by fax or email: Orangeburg.FA@dss.sc.gov
+:OrangeburgWebsite@dss.sc.gov"
+:Andrea.Favor@dss.sc.gov"
+ 623-2147 Main<br />(843) 623-5201 Director<br />(843) 623-2151 Fax<br />(843) 623-5229 SNAP/TANF Fax <br />(843) 413-6465 Resource Family Unit/Foster Home - Main<br />(843) 661-4750 Child Support Services - Main<br />(800) 768-5858 Child Support Services - Toll-Free<br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Licensing<br />(888) 202-1469 Child Care Services<br />(800) 854-4317 Spanish Medicare/AARP/United Health Care number<br />(843) 623-2147 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Chesterfield.FA@dss.sc.gov
+:ChesterfieldWebsite@dss.sc.gov"
+ 435-4303 Main<br />(803) 435-2831 Fax <br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(803)435-4210 Child Support Services - Main<br />(843) 661-6623 Child Care Services - Main <br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Clarendon.FA@dss.sc.gov
+:ClarendonWebsite@dss.sc.gov"
+ 332-2231 Hartsville Office <br />(843) 398-4420 Darlington Office <br />(843) 326-3000 Lamar Office <br />(843) 383-6041 Fax <br />(843) 413-6465 Resource Family Unit/Foster Home - Main<br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(843) 661-4750 Child Support Services - Main <br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main <br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Darlington.FA@dss.sc.gov
+:DarlingtonWebsite@dss.sc.gov"
+ 774-3461 Director <br />(843) 774-8284 Staff <br />(843) 774-8284, ext. 131 Foster Home Licensing <br />(843) 841-0253 Fax <br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(843) 661-4750 Child Support Services - Main<br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Dillon.FA@dss.sc.gov
+:DillonWebsite@dss.sc.gov"
+ 669-3354 Main  <br />(843) 673-9247 Fax <br />(843) 394-8575 Lake City Office <br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(843) 661-4750 Child Support Services - Main<br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Florence.FA@dss.sc.gov
+:FlorenceWebsite@dss.sc.gov"
+ 546-5134 Main <br />(843) 546-0617 Fax<br />(843) 546-7331 SNAP/TANF Fax<br />(843) 413-6465 Resource Family Unit/Foster Home - Main  <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free  <br />(843) 661-4750 Child Support Services - Main <br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main <br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br /><br />Submit SNAP/TANF verification information by fax or email: Georgetown.FA@dss.sc.gov
+:GeorgetownWebsite@dss.sc.gov"
+ 366-1600 Main (Conway Office)<br />(843) 756-3256 Loris Office<br />(843) 915-4710 Myrtle Beach Office<br />(843) 915-8951 South Strand Office<br />(843) 366-1650 Fax - Administration <br />(843) 366-1651 Fax - Child Welfare/APS <br />(843) 366-1652 Fax - SNAP/TANF <br />(843) 366-1653 Fax - Legal Department<br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(843) 661-4750 Child Support Services - Main <br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main <br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Horry.FA@dss.sc.gov
+:HorryWebsite@dss.sc.gov"
+ 484-5376 Main <br />(803) 856-5062 Director <br />(803) 484-6435 Fax  <br />(803) 484-5376, ext. 345 Foster Home Licensing <br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(843) 661-4750 Child Support Services - Main <br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Services - Toll-Free <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Lee.FA@dss.sc.gov
+:LeeWebsite@dss.sc.gov"
+ 423-4623 Main<br />(843) 423-2419 Fax<br />(843) 423-9504 SNAP/TANF Fax<br />(843) 413-6465 Resource Family Unit/Foster Home - Main<br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free<br />(843) 661-4750 Child Support Services - Main<br />(800) 768-5858 Child Support Services - Toll-Free<br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Services - Toll-Free<br />(843) 731-1192 Alternative Caregiver Liaison - Mobile<br />(843) 413-6465 Alternative Caregiver Liaison - Main<br />(800) 854-4317 Alternative Caregiver Liaison - Toll-Free<br />(843) 413-6470 Foster Home Licensing<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Marion.FA@dss.sc.gov
+:MarionWebsite@dss.sc.gov"
+ 479-7181 Main  <br />(843) 479-6254 Fax <br />(843) 479-6774 SNAP/TANF Fax <br />(843) 413-6465 Resource Family Unit/Foster Home - Main <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free <br />(843) 661-4750 Child Support Services - Main <br />(800) 768-5858 Child Support Services - Toll-Free <br />(843) 661-6623 Child Care Services - Main <br />(800) 556-7445 Child Care Services - Toll-Free <br />(843) 413-6470 Foster Home Licensing <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Marlboro.FA@dss.sc.gov
+:MarlboroWebsite@dss.sc.gov"
+ 773-5531 Main<br />(803) 778-2058 Fax<br />(843) 413-6465 Resource Family Unit/Foster Home - Main  <br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free<br />(843) 661-4750 Child Support Services - Main  <br />(800) 768-5858 Child Support Services - Toll-Free  <br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Services - Toll-Free<br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Sumter.FA@dss.sc.gov
+:SumterWebsite@dss.sc.gov"
+ 355-5411 Main<br />(843) 355-0913 Fax<br />(843) 355-0911 SNAP/TANF Fax<br />(843) 413-6465 Resource Family Unit/Foster Home - Main<br />(877) 670-3576 Resource Family Unit/Foster Home - Toll Free<br />(843) 661-4750 Child Support Services - Main<br />(800) 768-5858 Child Support Services - Toll-Free<br />(843) 661-6623 Child Care Services - Main<br />(800) 556-7445 Child Care Services - Toll-Free<br />(843) 355-0926 Foster Home Licensing  <br />(888) 828-3555 Foster Home Licensing (Heartfelt Calling) <br />(800) 763-6637 Pee Dee Region Adoptions<br />(888) 854-4317 Pee Dee Region Kinship Care<br /><br />Submit SNAP/TANF verification information by fax or email: Williamsburg.FA@dss.sc.gov
+:WilliamsburgWebsite@dss.sc.gov"

@@ -9,13 +9,13 @@ rPre = rPre.split('\n')
 wPro = open('pro.txt', 'a')
 
 for url in rPre:
-
+    # print(url)
 
 
 ########################################################
 ########################################################
 
-    coward = requests.get(f'https://www.ncdhhs.gov/{url}')
+    coward = requests.get(f'https://dss.sc.gov{url}')
     coward = coward.text
 
     coward = coward.split('\n')
